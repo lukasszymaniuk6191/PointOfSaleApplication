@@ -1,0 +1,15 @@
+/home/lenovo/Desktop/java/projects/PointOfSaleApplication/src/main/java/com/impaq/pos/repository/ShopProductsRepository.java
+/home/lenovo/Desktop/java/projects/PointOfSaleApplication/src/main/java/com/impaq/pos/repository/ShopReceiptsRepositoryImpl.java
+/home/lenovo/Desktop/java/projects/PointOfSaleApplication/src/main/java/com/impaq/pos/dto/Product.java
+/home/lenovo/Desktop/java/projects/PointOfSaleApplication/src/main/java/com/impaq/pos/service/ShopReceiptsServiceImpl.java
+/home/lenovo/Desktop/java/projects/PointOfSaleApplication/src/main/java/com/impaq/pos/devices/Printer.java
+/home/lenovo/Desktop/java/projects/PointOfSaleApplication/src/main/java/com/impaq/pos/repository/ShopProductsRepositoryImpl.java
+/home/lenovo/Desktop/java/projects/PointOfSaleApplication/src/main/java/com/impaq/pos/dto/Client.java
+/home/lenovo/Desktop/java/projects/PointOfSaleApplication/src/main/java/com/impaq/pos/service/ShopProductsService.java
+/home/lenovo/Desktop/java/projects/PointOfSaleApplication/src/main/java/com/impaq/pos/devices/BarCodesScaner.java
+/home/lenovo/Desktop/java/projects/PointOfSaleApplication/src/main/java/com/impaq/pos/service/ShopReceiptsService.java
+/home/lenovo/Desktop/java/projects/PointOfSaleApplication/src/main/java/com/impaq/pos/repository/ShopReceiptsRepository.java
+/home/lenovo/Desktop/java/projects/PointOfSaleApplication/src/main/java/com/impaq/pos/dto/Receipt.java
+/home/lenovo/Desktop/java/projects/PointOfSaleApplication/src/main/java/com/impaq/pos/main/PointOfSale.java
+/home/lenovo/Desktop/java/projects/PointOfSaleApplication/src/main/java/com/impaq/pos/service/ShopProductsServiceImpl.java
+/home/lenovo/Desktop/java/projects/PointOfSaleApplication/src/main/java/com/impaq/pos/devices/LCD.java

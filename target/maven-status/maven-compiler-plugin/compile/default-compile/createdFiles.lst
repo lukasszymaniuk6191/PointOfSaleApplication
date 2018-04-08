@@ -1,0 +1,15 @@
+com/impaq/pos/dto/Product.class
+com/impaq/pos/repository/ShopProductsRepository.class
+com/impaq/pos/devices/Printer.class
+com/impaq/pos/service/ShopReceiptsService.class
+com/impaq/pos/devices/LCD.class
+com/impaq/pos/service/ShopReceiptsServiceImpl.class
+com/impaq/pos/service/ShopProductsServiceImpl.class
+com/impaq/pos/dto/Client.class
+com/impaq/pos/dto/Receipt.class
+com/impaq/pos/main/PointOfSale.class
+com/impaq/pos/repository/ShopProductsRepositoryImpl.class
+com/impaq/pos/service/ShopProductsService.class
+com/impaq/pos/repository/ShopReceiptsRepositoryImpl.class
+com/impaq/pos/repository/ShopReceiptsRepository.class
+com/impaq/pos/devices/BarCodesScaner.class
